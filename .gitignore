@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+cpp/build/
+.DS_Store
+*.log
+
